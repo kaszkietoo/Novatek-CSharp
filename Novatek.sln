@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Novatek.5A", "Novatek.5A\Novatek.5A.csproj", "{B00F37FA-632C-4754-854B-F179906AD2EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Novatek.5BC", "Novatek.5BC\Novatek.5BC.csproj", "{1D028B23-C080-4099-9813-1112F8EB02C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B00F37FA-632C-4754-854B-F179906AD2EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B00F37FA-632C-4754-854B-F179906AD2EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B00F37FA-632C-4754-854B-F179906AD2EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B00F37FA-632C-4754-854B-F179906AD2EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D028B23-C080-4099-9813-1112F8EB02C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D028B23-C080-4099-9813-1112F8EB02C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D028B23-C080-4099-9813-1112F8EB02C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D028B23-C080-4099-9813-1112F8EB02C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61F001A0-F3C8-44B3-972F-1744FE92CD68}
+	EndGlobalSection
+EndGlobal
